@@ -3,6 +3,9 @@ Heroku Backend app sample.
 
 <img src="http://f.st-hatena.com/images/fotolife/t/tyoshikawa1106/20150928/20150928062537.png" />
 
+## Schema
+<img src="http://f.st-hatena.com/images/fotolife/t/tyoshikawa1106/20150928/20150928064144.png?1443390121" />
+
 ## Terminal Demo
 ```
 curl -X GET 'https://tyoshikawa1106-rails-backend.herokuapp.com/api/people'
